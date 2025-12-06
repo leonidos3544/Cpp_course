@@ -1,7 +1,7 @@
 #ifndef STACK_H
 #define STACK_H
 
-#include "dyn__arr.h"
+#include "DynamicArray.h"
 #include <stdexcept>
 #include <cstdint>
 
@@ -54,3 +54,4 @@ public:
     }
 };
 #endif
+
