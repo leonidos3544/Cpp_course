@@ -1,1 +1,2 @@
-#include "dyn__arr.h"
+#include "DynamicArray.h"
+
