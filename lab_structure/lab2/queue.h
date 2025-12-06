@@ -1,6 +1,6 @@
 #ifndef QUEUE_H
 #define QUEUE_H
-#include "stack_.h"
+#include "stack.h"
 #include <stdexcept>
 #include <cstdint>
 
@@ -47,3 +47,4 @@ public:
     }
 };
 #endif
+
